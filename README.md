@@ -4,7 +4,7 @@ Este proyecto es un encriptador de texto.
 
 ## Demo
 
-Puedes ver la versión en vivo del proyecto aquí: [GitHub Pages]([https://david2172.github.io/encriptador-217)
+Puedes ver la versión en vivo del proyecto (Github pages) aquí: https://david2172.github.io/encriptador-217
 
 ## Instalación
 
