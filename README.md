@@ -10,7 +10,7 @@ La letra "u" es convertida para "ufat"
 
 ## Demo
 
-Puedes ver la versión en vivo del proyecto (Github pages) aquí: https://david2172.github.io/encriptador-217
+Puedes ver la versión en vivo del proyecto (Github pages) aquí: https://david21772.github.io/encriptador-217
 
 ## Instalación
 
@@ -18,4 +18,4 @@ Para clonar y ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/David2172/encriptador-217.git
+   git clone https://github.com/David21772/encriptador-217.git
